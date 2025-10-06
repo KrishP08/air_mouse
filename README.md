@@ -112,5 +112,6 @@ const unsigned long DWELL_TIME = 1500;
 | `FLICK_THRESHOLD` | Sensitivity for left-click flick detection.                               |
 | `DWELL_TIME`      | Time required to register a right-click dwell.                            |
 
-##License
+## License
+
 This project is open-source and available under the MIT License
