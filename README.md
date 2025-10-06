@@ -85,7 +85,7 @@ This project requires three libraries. Install them using the Arduino IDE's Libr
 
 The mouse's behavior can be fine-tuned by adjusting the constant values at the top of the `.ino` sketch file.
 
-``'cpp
+```cpp
 // Adjust this value to make the cursor move faster or slower based on acceleration.
 const float SENSITIVITY = 7.0;
 
@@ -103,7 +103,7 @@ const unsigned long FLICK_COOLDOWN = 400;
 
 // Time (in milliseconds) to hold the mouse still to trigger a "dwell" for a right-click.
 const unsigned long DWELL_TIME = 1500;
-cpp!'''
+```
 | Constant          | Description                                                               |
 | ----------------- | ------------------------------------------------------------------------- |
 | `SENSITIVITY`     | Controls cursor speed. Increase for faster, decrease for precise control. |
