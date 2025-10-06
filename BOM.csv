@@ -1,0 +1,7 @@
+Component,Quantity,Description,Approx. Cost (INR),Approx. Cost (USD),Link
+ESP32 Development Board,1,Main microcontroller with built-in Bluetooth and Wi-Fi used for wireless mouse control,343,3.87,https://robocraze.com/products/esp32-development-board?_pos=1&_psq=esp32&_ss=e&_v=1.0
+MPU6050 Module,1,6-axis accelerometer + gyroscope sensor used for motion detection,150,1.69,https://robocraze.com/products/mpu-6050-triple-axis-accelerometer-gyroscope-module?_pos=1&_psq=mpu&_ss=e&_v=1.0
+Jumper Wires (Male to Female),20,Used to connect MPU6050 with ESP32 (I2C lines and power),23,0.26,https://robocraze.com/products/f2m-jumper-wires-20cm-20pcs?_pos=2&_psq=jumpper+male+to+f&_ss=e&_v=1.0
+Micro USB Cable,1,For uploading code and powering ESP32 via USB,35,0.39,https://robocraze.com/products/usb-to-micro-usb-cable?_pos=2&_psq=micro+usb&_ss=e&_v=1.0
+Breadboard (Optional),1,For quick prototyping without soldering,32,0.36,https://robocraze.com/products/half-breadboard
+,,,583,6.57,
