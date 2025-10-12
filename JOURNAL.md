@@ -29,3 +29,9 @@ For the initial development phase, I am using **Wokwi** for online code simulati
 ### Version Control
 Currently, there is no GitHub repository for this project. I plan to create one soon to manage the source code and document progress.  
 
+## 10/12/2025 - Complete the first version of code   
+
+So I completed the first version of my air mouse project 
+I did it in online esp32 simulator where for now it read the data and print it and also make a read to use code with everything this write correctly and check by ai for now when it get all the parts I am going test it and improve it for now I did not have new image so I am going to upload old one and i still have to update code in GitHub ![Screenshot 2025-10-05 161522.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--676c967484ff4639e16342af9f51d3ad9ec85097/Screenshot%202025-10-05%20161522.png)
+  
+
