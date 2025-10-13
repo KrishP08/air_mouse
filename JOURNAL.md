@@ -35,3 +35,8 @@ So I completed the first version of my air mouse project
 I did it in online esp32 simulator where for now it read the data and print it and also make a read to use code with everything this write correctly and check by ai for now when it get all the parts I am going test it and improve it for now I did not have new image so I am going to upload old one and i still have to update code in GitHub ![Screenshot 2025-10-05 161522.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--676c967484ff4639e16342af9f51d3ad9ec85097/Screenshot%202025-10-05%20161522.png)
   
 
+## 10/13/2025 - Upload the code file in github  
+
+i upload the first code file in github and i run it in my friend esp32 and it run without any error and wait for work on it and complet and i did not upload the simulator because it is not that use for it just print the data we pass useing the silder ![Screenshot 2025-10-13 122817.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--1f04b1e36c7637ccb212dfdf18b11ab4eb05af44/Screenshot%202025-10-13%20122817.png)
+  
+
